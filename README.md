@@ -10,3 +10,7 @@ This mod's configuration lets you specify the "Warning" and "Danger" thresholds,
 ### Thanks
 - To Coffee Stain Studios, for making such an AWESOME game
 - To the fine denizens of the Satisfactory Modding Discord, for all the help and being so welcoming
+
+### Licensing notes
+Any assets included in this repository that were derived from Satisfactory assets are not covered by this repository's license.
+Mod icon is the `:sadalpaca:` emoji from the Satisfactory Modding server.
