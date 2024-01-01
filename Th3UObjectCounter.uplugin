@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "Th3UObjectCounter",
 	"Description": "Adds an in-game UObject counter.",
 	"Category": "Modding",
@@ -28,5 +28,5 @@
 			"SemVersion": "^3.6.1"
 		}
 	],
-	"SemVersion": "1.0.0"
+	"SemVersion": "1.0.1"
 }
