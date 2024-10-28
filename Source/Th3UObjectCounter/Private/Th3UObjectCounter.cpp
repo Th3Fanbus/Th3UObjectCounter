@@ -2,12 +2,4 @@
 
 #include "Th3UObjectCounter.h"
 
-void FTh3UObjectCounterModule::StartupModule()
-{
-}
-
-void FTh3UObjectCounterModule::ShutdownModule()
-{
-}
-
 IMPLEMENT_MODULE(FTh3UObjectCounterModule, Th3UObjectCounter)
